@@ -1,0 +1,20 @@
+{
+    "name": "eventos",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "8P-iaEl22"
+    },
+    "shortid": "3pfAhyv2aU",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1685396052355
+    },
+    "modificationDate": {
+        "$$date": 1685396052355
+    },
+    "_id": "w6nDGyOG66TNl8hs",
+    "$entitySet": "templates"
+}
