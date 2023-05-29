@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "jsreport": "^3.11.3"
+  },
+  "engines": {
+    "node" : ">=16.11"
   }
 }
